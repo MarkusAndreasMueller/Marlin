@@ -116,7 +116,6 @@ tags
 *.su
 
 # PlatformIO files/dirs
-.pio*
 .pioenvs
 .piolibdeps
 .clang_complete
@@ -184,3 +183,19 @@ cmake-build-*
 
 #Python
 __pycache__
+libdeps
+/.pio/build/STM32F103RET6_creality/.sconsign37.dblite
+/.pio/build/STM32F103RET6_creality/FrameworkArduino
+/.pio/build/STM32F103RET6_creality/FrameworkArduinoVariant
+/.pio/build/STM32F103RET6_creality/lib1ac
+/.pio/build/STM32F103RET6_creality/lib7a2
+/.pio/build/STM32F103RET6_creality/lib20d
+/.pio/build/STM32F103RET6_creality/lib37b
+/.pio/build/STM32F103RET6_creality/lib73f
+/.pio/build/STM32F103RET6_creality/libba7
+/.pio/build/STM32F103RET6_creality/libcf7
+/.pio/build/STM32F103RET6_creality/libd46
+/.pio/build/STM32F103RET6_creality/src
+/.pio/build/STM32F103RET6_creality/.gcc_path
+/.pio/build/STM32F103RET6_creality/*.gcc_path
+/.pio/build/STM32F103RET6_creality/*.dblite
